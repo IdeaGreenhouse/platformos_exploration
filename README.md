@@ -47,7 +47,7 @@ The idea is to collect all possible resources so that  we can start learning abo
 - [Town Hall #44 - Import Advanced Webapps from BC to Siteglide, case studies and eCommerce](https://www.youtube.com/watch?v=3v-DMsnUBko&feature=youtu.be)
 - [Town Hall #46 - Meet Clark Mak operations executive, entrepreneur](https://www.youtube.com/watch?v=j4d3VEqdaxE&feature=youtu.be)
 - [Town Hall #47 - CTO, Maciek Krajowski, Q1 platformOS Roadmap in Review](https://www.youtube.com/watch?v=lqMJffZwAnw&feature=youtu.be)
-
+- [Town Hall #48 - 1-Click Instant Gratification business solution installed, with Tomek](https://www.youtube.com/watch?v=_drINujJaJE&feature=youtu.be)
 
 ## useful links
 
